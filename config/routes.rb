@@ -4,6 +4,6 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   #resources :posts
   #root  to: "posts#index"
-  puts "Congratulation you successfully depoy Rails application
+  puts "Congratulation you successfully depoy Rails application"
   
 end
